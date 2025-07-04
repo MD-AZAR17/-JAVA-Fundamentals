@@ -11,7 +11,7 @@ public class program7
 		{
 			System.out.println("Alphabhet");
 		}
-		else if(in >= 0 && in < 0)
+		else if(in >= '0' && in <= '9')
 		{
 			System.out.println("Digit");
 		}
